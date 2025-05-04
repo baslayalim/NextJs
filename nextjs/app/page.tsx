@@ -21,6 +21,7 @@ export default function Home() {
           <li>NextJs Build and Publish github.com/baslayalim.</li>
           <li>Build Test.</li>
           <li>Manuel Build Test.</li>
+          <li>Manuel Build Test 2.</li>
         </ol>
 
         <div className={styles.ctas}>
