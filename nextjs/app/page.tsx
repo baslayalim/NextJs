@@ -20,6 +20,7 @@ export default function Home() {
           <li>Save and see your changes instantly.</li>
           <li>NextJs Build and Publish github.com/baslayalim.</li>
           <li>Build Test.</li>
+          <li>Manuel Build Test.</li>
         </ol>
 
         <div className={styles.ctas}>
