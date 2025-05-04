@@ -23,6 +23,7 @@ export default function Home() {
           <li>Manuel Build Test.</li>
           <li>Manuel Build Test 2.</li>
           <li>Manuel Build Test 3.</li>
+          <li>Manuel Build Test 4.</li>
         </ol>
 
         <div className={styles.ctas}>
